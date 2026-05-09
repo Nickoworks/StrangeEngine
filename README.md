@@ -1,2 +1,1 @@
 # StrangeEngine
-*TrashEngine
